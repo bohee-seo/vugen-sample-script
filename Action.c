@@ -1,7 +1,6 @@
 Action()
 {
-//change in script
-	
+
 	int rNum;
 	
 	double MilliFactor = 50.123;
